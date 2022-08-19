@@ -41,7 +41,7 @@ body {
 
 
 }
-.card-wrapper: {
+.card-wrapper {
     transform: scale(1.1);
 }
 .card-header{
